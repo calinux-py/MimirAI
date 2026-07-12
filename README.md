@@ -2,6 +2,8 @@
 
 MimirAI is a private, always-on-top Windows assistant for live calls and conversations. It transcribes system audio and, optionally, your microphone, then turns the live context into concise answers, notes, follow-up questions, and practical guidance.
 
+MimirAI is similar to Cluely but completely free and requires no subscription. It runs locally on your system but uses OpenAI's API for transcription & AI analysis. 
+
 ## Features
 
 - Realtime transcription of system audio with optional microphone capture
