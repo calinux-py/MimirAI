@@ -67,6 +67,10 @@ The first-run guide requests audio-processing consent and an OpenAI API key. You
 
 The executable is written to `dist\Mimir.exe`.
 
+## POC
+![MimirAI](https://raw.githubusercontent.com/calinux-py/MimirAI/main/poc.png)
+![MimirAI](https://raw.githubusercontent.com/calinux-py/MimirAI/main/poc2.png)
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
