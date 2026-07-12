@@ -4,7 +4,7 @@ MimirAI is a private, always-on-top Windows assistant for live calls and convers
 
 MimirAI is similar to Cluely but completely free and requires no subscription. It runs locally on your system but uses OpenAI's API for transcription & AI analysis. 
 
-MimirAI can be used for meetings, calls, and much more.
+MimirAI can be used for meetings, calls, and much more. The app has a full onboarding process teaching users how to use it.
 
 ![MimirAI](https://raw.githubusercontent.com/calinux-py/MimirAI/main/poc3.png)
 
@@ -68,6 +68,7 @@ The first-run guide requests audio-processing consent and an OpenAI API key. You
 The executable is written to `dist\Mimir.exe`.
 
 ## POC
+![MimirAI](https://raw.githubusercontent.com/calinux-py/MimirAI/main/poc4.png)
 ![MimirAI](https://raw.githubusercontent.com/calinux-py/MimirAI/main/poc.png)
 ![MimirAI](https://raw.githubusercontent.com/calinux-py/MimirAI/main/poc2.png)
 
