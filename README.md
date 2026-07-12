@@ -1,6 +1,6 @@
-# Mimir
+# MimirAI
 
-Mimir is a private, always-on-top Windows assistant for live calls and conversations. It transcribes system audio and, optionally, your microphone, then turns the live context into concise answers, notes, follow-up questions, and practical guidance.
+MimirAI is a private, always-on-top Windows assistant for live calls and conversations. It transcribes system audio and, optionally, your microphone, then turns the live context into concise answers, notes, follow-up questions, and practical guidance.
 
 ## Features
 
