@@ -6,6 +6,8 @@ MimirAI is similar to Cluely but completely free and requires no subscription. I
 
 MimirAI can be used for meetings, calls, and much more.
 
+![MimirAI](https://raw.githubusercontent.com/calinux-py/MimirAI/main/poc3.png)
+
 ## Features
 
 - Realtime transcription of system audio with optional microphone capture
